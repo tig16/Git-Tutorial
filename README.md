@@ -267,3 +267,21 @@ git branch -d dev
 git branch
 ```
 
+
+
+#### 远程仓库联系
+
+1.使用https，直接复制，在当前文件夹
+
+```
+git clone address
+```
+
+2.使用push 推送
+
+```
+git push
+```
+
+
+
